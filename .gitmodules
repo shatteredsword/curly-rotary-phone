@@ -4,3 +4,6 @@
 [submodule "cautious-palm-tree"]
 	path = cautious-palm-tree
 	url = git@github.com:shatteredsword/cautious-palm-tree.git
+[submodule "fantastic-journey"]
+	path = fantastic-journey
+	url = git@github.com:shatteredsword/fantastic-journey.git
