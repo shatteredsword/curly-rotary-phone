@@ -1,0 +1,6 @@
+[submodule "super-umbrella"]
+	path = super-umbrella
+	url = git@github.com:shatteredsword/super-umbrella.git
+[submodule "cautious-palm-tree"]
+	path = cautious-palm-tree
+	url = git@github.com:shatteredsword/cautious-palm-tree.git
